@@ -1,0 +1,52 @@
+{
+    "gatekeeper": {
+        "name": "Gatekeeper",
+        "description": "A simple tool for monitoring vehicles entering/exiting a property using ALPR.",
+        "image": "/gatekeeper/assets/image/gatekeeperlogo.svg"
+    },
+    "optic": {
+        "name": "Optic",
+        "description": "A graphical dashcam interface for V0LT Predator.",
+        "image": "/optic/assets/image/opticprologo.svg"
+    },
+    "cortex": {
+        "name": "Cortex",
+        "description": "A graphical ALPR interface for V0LT Predator.",
+        "image": "/cortex/assets/images/cortexlogo.svg"
+    },
+    "marksman": {
+        "name": "Marksman",
+        "description": "A graphical dashboard interface for V0LT Assassin.",
+        "image": "/marksman/img/logo.svg"
+    },
+    "submarine": {
+        "name": "Submarine",
+        "description": "A simple status page to check connectivity to network targets.",
+        "image": "/submarine/assets/images/logo.svg"
+    },
+    "galaxy": {
+        "name": "Galaxy",
+        "description": "An independent way to host and share files.",
+        "image": "/galaxy/assets/images/logo.svg"
+    },
+    "promptly": {
+        "name": "Promptly",
+        "description": "A simple, no-nonsense, self-hosted blogging platform.",
+        "image": "/promptly/assets/image/promptlylogo.svg"
+    },
+    "dropauth": {
+        "name": "DropAuth",
+        "description": "A drag and drop authentication system for PHP.",
+        "image": "/dropauth/assets/images/dropauthlogo.svg"
+    },
+    "homeindex": {
+        "name": "Home Index",
+        "description": "A quick and easy way to sort your possessions.",
+        "image": "/homeindex/assets/images/homeindexlogo.svg"
+    },
+    "marathon": {
+        "name": "Marathon",
+        "description": "An open source, transparent, self hosted employee management tool.",
+        "image": "/marathon/assets/img/marathonlogo.svg"
+    }
+}
