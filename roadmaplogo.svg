@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.26271074"
-     inkscape:cx="721.32566"
-     inkscape:cy="951.61697"
+     inkscape:zoom="0.301564"
+     inkscape:cx="867.14596"
+     inkscape:cy="961.65326"
      inkscape:window-width="1904"
      inkscape:window-height="995"
      inkscape:window-x="8"
@@ -102,7 +102,7 @@
      id="layer1">
     <path
        id="RoadBase"
-       style="color:#000000;fill:#000000;stroke-width:37.79527607;stroke-linecap:round;stroke:#1dc200;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="color:#000000;fill:#000000;stroke-width:56.6929141;stroke-linecap:round;stroke:#5e5e5e;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 692.43359 113.75 A 100.15476 99.845482 0 0 0 592.2793 213.59375 L 592.2793 465.02148 L 330.70117 204.26367 A 100.15476 99.845482 0 0 0 189.05859 204.26367 A 100.15476 99.845482 0 0 0 189.05859 345.46875 L 612.28125 767.375 L 870.51758 1213.2617 L 870.51758 1721.4121 A 100 100 0 0 0 970.51172 1821.4082 A 100 100 0 0 0 1070.5137 1721.4121 L 1070.5137 1203.0586 L 1322.8398 767.375 L 1746.0527 345.46875 A 100.15476 99.845482 0 0 0 1746.0527 204.26367 A 100.15476 99.845482 0 0 0 1604.4199 204.26367 L 1342.8418 465.02148 L 1342.8418 213.59375 A 100.15476 99.845482 0 0 0 1242.6875 113.75 A 100.15476 99.845482 0 0 0 1142.5332 213.59375 L 1142.5332 679.32812 L 967.56055 981.44922 L 792.58789 679.32812 L 792.58789 213.59375 A 100.15476 99.845482 0 0 0 692.43359 113.75 z "
        transform="scale(0.26458333)" />
     <ellipse
