@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="roadmaplogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3274">Roadmap Logo</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.26271074"
+     inkscape:cx="721.32566"
+     inkscape:cy="951.61697"
+     inkscape:window-width="1904"
+     inkscape:window-height="995"
+     inkscape:window-x="8"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="328.7932,186.81695"
+       end_point="328.7932,455.45631"
+       center_point="328.7932,321.13663"
+       id="path-effect2391"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="443.23928,56.513007"
+       end_point="443.23928,186.81695"
+       center_point="443.23928,121.66498"
+       id="path-effect2389"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="380.83974,167.7203"
+       end_point="380.83974,255.23371"
+       center_point="380.83974,211.477"
+       id="path-effect1958"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="256,0"
+       end_point="256,512"
+       center_point="304.21397,296.59419"
+       id="path-effect1956"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="RoadBase"
+       style="color:#000000;fill:#000000;stroke-width:37.79527607;stroke-linecap:round;stroke:#1dc200;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 692.43359 113.75 A 100.15476 99.845482 0 0 0 592.2793 213.59375 L 592.2793 465.02148 L 330.70117 204.26367 A 100.15476 99.845482 0 0 0 189.05859 204.26367 A 100.15476 99.845482 0 0 0 189.05859 345.46875 L 612.28125 767.375 L 870.51758 1213.2617 L 870.51758 1721.4121 A 100 100 0 0 0 970.51172 1821.4082 A 100 100 0 0 0 1070.5137 1721.4121 L 1070.5137 1203.0586 L 1322.8398 767.375 L 1746.0527 345.46875 A 100.15476 99.845482 0 0 0 1746.0527 204.26367 A 100.15476 99.845482 0 0 0 1604.4199 204.26367 L 1342.8418 465.02148 L 1342.8418 213.59375 A 100.15476 99.845482 0 0 0 1242.6875 113.75 A 100.15476 99.845482 0 0 0 1142.5332 213.59375 L 1142.5332 679.32812 L 967.56055 981.44922 L 792.58789 679.32812 L 792.58789 213.59375 A 100.15476 99.845482 0 0 0 692.43359 113.75 z "
+       transform="scale(0.26458333)" />
+    <ellipse
+       id="path1522"
+       style="fill:#000000;stroke:none;stroke-width:52.91666667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="269.31708"
+       cy="309.98511"
+       rx="0.59276134"
+       ry="0.59093088" />
+    <path
+       id="Centerline"
+       style="color:#000000;fill:#ffde00;stroke-width:3.77953;-inkscape-stroke:none"
+       d="M 687.43945 213.5957 L 687.43945 694.04492 L 263.41602 271.32227 L 256.35156 278.4082 L 688.46289 709.18164 L 962.19336 1171.4551 L 962.56055 1637.3184 L 962.49414 1721.4199 L 962.62695 1721.4199 L 962.62695 1721.4277 L 967.55859 1721.4277 L 972.49023 1721.4277 L 972.49023 1721.4199 L 972.62305 1721.4199 L 972.55664 1637.3184 L 972.92578 1171.4551 L 1246.6543 709.18164 L 1678.7676 278.4082 L 1671.7031 271.32227 L 1247.6797 694.04492 L 1247.6797 213.5957 L 1237.6836 213.5957 L 1237.6836 704.70508 L 967.55859 1160.8984 L 697.43359 704.70312 L 697.43359 213.5957 L 687.43945 213.5957 z "
+       transform="scale(0.26458333)" />
+  </g>
+  <metadata
+     id="metadata3260">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:title>Roadmap Logo</dc:title>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>V0LT</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>2024-01-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Conner Vieira</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
