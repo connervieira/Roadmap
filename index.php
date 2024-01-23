@@ -5,11 +5,11 @@ $services_database = json_decode(file_get_contents("./database.json"), true);
 <html lang="en">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>V0LT Services</title>
+        <title>V0LT Roadmap</title>
         <link rel="stylesheet" type="text/css" href="./style.css">
     </head>
     <body>
-        <h1>V0LT Services</h1>
+        <h1>V0LT Roadmap</h1>
         <h2>Access all self-hosted V0LT services on this server.</h2>
         <hr>
         <main class="centered">
