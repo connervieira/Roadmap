@@ -1,12 +1,12 @@
 <?php
-$services_database = json_decode(file_get_contents("./database.json"), true);
+$services_database = json_decode(file_get_contents("./assets/database/database.json"), true);
 ?>
 <!DOCTYPE>
 <html lang="en">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>V0LT Roadmap</title>
-        <link rel="stylesheet" type="text/css" href="./style.css">
+        <link rel="stylesheet" type="text/css" href="./assets/styles/style.css">
     </head>
     <body>
         <h1>V0LT Roadmap</h1>
@@ -24,7 +24,7 @@ $services_database = json_decode(file_get_contents("./database.json"), true);
                     echo "<a class='button' href='../dropauth/signout.php'>Logout</a>";
                 } else {
                     echo "<p style='margin-bottom:0px;'>You are not currently signed in to DropAuth</p>";
-                    echo "<a class='button' href='../dropauth/signin.php'>Login</a>";
+                    echo "<a class='button' href='../dropauth/signin.php?redirect=" . $_SERVER["REQUEST_URI"] . "'>Login</a>";
                 }
                 echo "<br><br>";
             }
