@@ -2,7 +2,7 @@
     "healthbox": {
         "name": "HealthBox",
         "description": "An open source platform to centralize health information.",
-        "image": "/healthbox/assets/images/healthboxlogo.svg"
+        "image": "/healthbox/assets/images/healthboxlogo.png"
     },
     "gatekeeper": {
         "name": "Gatekeeper",
