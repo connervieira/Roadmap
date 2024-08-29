@@ -1,4 +1,9 @@
 {
+    "healthbox": {
+        "name": "HealthBox",
+        "description": "An open source platform to centralize health information.",
+        "image": "/healthbox/assets/images/healthboxlogo.svg"
+    },
     "gatekeeper": {
         "name": "Gatekeeper",
         "description": "A simple tool for monitoring vehicles entering/exiting a property using ALPR.",
@@ -48,5 +53,10 @@
         "name": "Marathon",
         "description": "An open source, transparent, self hosted employee management tool.",
         "image": "/marathon/assets/img/marathonlogo.svg"
+    },
+    "photoguardian": {
+        "name": "Photo Guardian",
+        "description": "A service for filtering or censoring objectionable content in images.",
+        "image": "/photoguardian/assets/images/photoguardianlogo.svg"
     }
 }
